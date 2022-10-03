@@ -11,8 +11,8 @@
 - 🔧   Git | GitHub | GitFlow | vscode | Php Storm 
 
 <a href="https://github.com/jodrack07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jodrack07&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodrack07&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jodrack07&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodrack07&theme=noctis_minimus&layout=compact" />
 </a>
 <!--
 **jodrack07/jodrack07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
