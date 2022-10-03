@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Buingo Joseph 
 
+- 🎓 Computer Science graduated at ULK/Rwanda-Gisenyi | Microverse student 💻
+- 💼 CRES  🧑‍ | CNS 🔥
+- ⚽🏃 Enjoy sport during free time
+
+🛠 Tech Stack
+- 💻   JavaScript | Typescript | React & Redux | Php | Node.js & ExpressJs | Nestjs
+- 🌐   HTML | CSS | sass | JavaScript | Bootstrap | ReactJS | Angular
+- 🛢   MySQL | MongoDB | PostgeSQL
+- 🔧   Git | GitHub | GitFlow | vscode | Php Storm 
 <!--
 **jodrack07/jodrack07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
