@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Buingo Joseph 
 
-- 🎓 Computer Science graduated at ULK/Rwanda-Gisenyi | Microverse student 💻
+- 🎓 Computer Science graduated guy at ULK/Rwanda-Gisenyi | Microverse student 💻
 - 💼 CRES  🧑‍ | CNS 🔥
 - ⚽🏃 Enjoy sport during free time
 
