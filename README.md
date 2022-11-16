@@ -1,14 +1,16 @@
 ### Hi there 👋, I'm Buingo Joseph 
 
+- 🌱 I’m currently learning Tailwindcss
+
 - 🎓 Computer Science graduate at ULK/Rwanda-Gisenyi | Microverse student 💻
 - 💼 CRES  🧑‍ | CNS 🔥
 - ⚽🏃 Enjoy sport during free time
 
 🛠 Tech Stack
 - 💻   JavaScript | Typescript | React & Redux | Php | Node.js & ExpressJs | Nestjs
-- 🌐   HTML | CSS | sass | JavaScript | Bootstrap | ReactJS | Angular
-- 🛢   MySQL | MongoDB | PostgeSQL
-- 🔧   Git | GitHub | GitFlow | vscode | Php Storm 
+- 🌐   HTML | CSS | Sass | Tailwind | Bootstrap | JavaScript | ReactJS | Nextjs 
+- 🛢   MySQL | Postgres | MongoDB
+- 🔧   Git | GitHub | GitFlow | Heroku | Vercel
 
 <a href="https://github.com/jodrack07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jodrack07&theme=noctis_minimus&show_icons=true" />
@@ -20,7 +22,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
