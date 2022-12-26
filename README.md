@@ -8,7 +8,7 @@
 
 🛠 Tech Stack
 - 💻   JavaScript | Typescript | React & Redux | Php | Node.js & ExpressJs | Nestjs
-- 🌐   HTML | CSS | Sass | Tailwindcss | Bootstrap | JavaScript | ReactJS | Nextjs 
+- 🌐   HTML | CSS | Sass | Tailwindcss | Bootstrap | JavaScript | ReactJS | Nextjs | PHP | Laravel
 - 🛢   MySQL | Postgres | MongoDB
 - 🔧   Git | GitHub | GitFlow | Heroku | Vercel
 
