@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Buingo Joseph 
 
-- 🌱 I’m currently learning Nestjs
+- 🌱 I’m currently learning **Nestjs**
 
 - 🎓 Computer Science graduate at ULK/Rwanda-Gisenyi | Microverse student 💻
 - 💼 CRES | Pattech Consulting 
