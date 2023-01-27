@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Nestjs**
 
 - 🎓 Computer Science graduate at ULK/Rwanda-Gisenyi | Microverse student 💻
-- 💼 CRES | Pattech Consulting 
+- 💼 Eclaire | Pattech Consulting 
 - ⚽🏃 Enjoy sport during free time
 
 🛠 Tech Stack
