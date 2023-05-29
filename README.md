@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm Buingo Joseph 
 
-- 🌱 I’m currently learning **Nestjs**
+- 🌱 I’m currently learning **Nestjs** and **Vuejs**
 
 - 🎓 Computer Science graduate at ULK/Rwanda-Gisenyi | Microverse student 💻
-- 💼 Eclairelabs, inc. | Pattech Consulting 
+- 💼 Eclaire lab
 - ⚽🏃 Enjoy sport during free time
 
 🛠 Tech Stack
 - 💻   JavaScript | Typescript | React & Redux | Php | Node.js & ExpressJs | Nestjs
-- 🌐   HTML | CSS | Sass | Tailwindcss | Bootstrap | JavaScript | Typescript | ReactJS | Nextjs | PHP | Laravel
+- 🌐   HTML | CSS | Sass | Tailwindcss | Bootstrap | JavaScript | Typescript | ReactJS | Nextjs | Vuejs | PHP | Laravel
 - 🛢   MySQL | Postgres | MongoDB
-- 🔧   Git | GitHub | GitFlow | Heroku | Vercel
+- 🔧   Git | GitHub | GitFlow | Heroku | Vercel | Netlify
 
 <a href="https://github.com/jodrack07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jodrack07&theme=noctis_minimus&show_icons=true" />
