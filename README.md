@@ -3,14 +3,14 @@
 - 🌱 I’m currently learning **Nestjs** and **Vuejs**
 
 - 🎓 Computer Science graduate at ULK/Rwanda-Gisenyi | Microverse student 💻
-- 💼 Eclaire lab
-- ⚽🏃 Enjoy sport during free time
+- 💼 Eclaire labs
+- ⚽🏃 Enjoy sports during free time
 
 🛠 Tech Stack
 - 💻   JavaScript | Typescript | React & Redux | Php | Node.js & ExpressJs | Nestjs
-- 🌐   HTML | CSS | Sass | Tailwindcss | Bootstrap | JavaScript | Typescript | ReactJS | Nextjs | Vuejs | PHP | Laravel
+- 🌐   HTML | CSS | Sass | Tailwindcss | Bootstrap | JavaScript | Typescript | ReactJS | Nextjs | Vuejs | Nuxt | PHP | Laravel
 - 🛢   MySQL | Postgres | MongoDB
-- 🔧   Git | GitHub | GitFlow | Heroku | Vercel | Netlify
+- 🔧   Git | GitHub | GitFlow | Heroku | Vercel | Netlify | Render
 
 <a href="https://github.com/jodrack07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jodrack07&theme=noctis_minimus&show_icons=true" />
