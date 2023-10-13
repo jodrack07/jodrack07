@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Buingo Joseph 
 
-- 🌱 I’m currently learning **Nestjs** and **Vuejs**
+- 🌱 I’m currently learning **NextJS**, **NuxtJS** and **NestJS**
 
 - 🎓 Computer Science graduate at ULK/Rwanda-Gisenyi | Microverse student 💻
 - 💼 Eclaire labs
