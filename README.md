@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **NextJS**, **NuxtJS** and **NestJS**
 
 - 🎓 Computer Science graduate at ULK/Rwanda-Gisenyi | Microverse student 💻
-- 💼 Eclaire labs
+- 💼 Zopener
 - ⚽🏃 Enjoy sports during free time
 
 🛠 Tech Stack
